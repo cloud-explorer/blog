@@ -2,6 +2,7 @@
 title: Integrating Sitecore with Azure CDN – Part 1
 date: 2016-03-02 18:56:56
 tags: ['Azure', 'CDN', 'Sitecore']
+excerpt: "This will be the first in a multiple part blog series in which we discuss the various steps involved and option available while integrating a Sitecore with Azure CDN. In this post we will discuss what Sitecore has out of the box."
 ---
 
 This will be the first in a multiple part blog series in which we discuss the various steps involved and option available while integrating a Sitecore with Azure CDN. In this post we will discuss what Sitecore has out of the box.
@@ -23,4 +24,6 @@ Out of the box Sitecore comes with a setting Media.MediaLinkServerUrl which can 
             Default value: ""
       -->
     <setting name="Media.MediaLinkServerUrl" value="" />
-'''
+'
+
+Will this work now? can you hear me now?
