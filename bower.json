@@ -1,0 +1,18 @@
+{
+  "name": "cloud-explorer",
+  "description": "",
+  "main": "",
+  "authors": [
+    "rrangan@gmail.com <rrangan@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "http://cloud-explorer.github.io",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
